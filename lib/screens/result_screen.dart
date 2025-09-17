@@ -72,6 +72,7 @@ class _ResultScreenState extends State<ResultScreen> {
                   title: "RE_CALCULATE",
                   logic: () {
                     Navigator.pop(context);
+                    print('object');
                   },
                 ),
               ],
