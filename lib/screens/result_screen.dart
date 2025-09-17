@@ -74,6 +74,7 @@ class _ResultScreenState extends State<ResultScreen> {
                     Navigator.pop(context);
                     print('object');
                     print('object');
+                    print('object');
                   },
                 ),
               ],
